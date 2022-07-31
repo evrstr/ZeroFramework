@@ -1,6 +1,5 @@
 {
     "name": "com.yjqz.zeroframework",
-  
     "version": "0.1.0",
     "displayName": "ZeroFramework",
     "description": "ZeroFramework",
@@ -10,17 +9,10 @@
       "zeroframework"
     ],
     "author": {
-      "name": "御驾亲征",
+      "name": "yjqz",
       "url": "https://github.com/evrstr"
     },
-    "samples": [
-      {
-        "displayName": "Demo",
-        "description": "Demo",
-        "path": "Demo"
-      }
-    ],
-    
+    "license": "MIT",
     "dependencies": {
         "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
     }
