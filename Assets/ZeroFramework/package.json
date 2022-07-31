@@ -23,16 +23,6 @@
     
     "dependencies": {
         "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-        "com.tuyoogame.yooasset": "1.2.1"
-    },
-    "scopedRegistries": [
-        {
-          "name": "package.openupm.cn",
-          "url": "https://package.openupm.cn",
-          "scopes": [
-            "com.tuyoogame.yooasset"
-          ]
-        }
-      ]
-  }
+    }
+}
   
